@@ -6,10 +6,9 @@
     android:layout_height="match_parent"
     tools:context="techkids.vn.tkprogress.MainActivity">
 
-<android.support.v7.app.AlertController.RecycleListView
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:id="@+id/rv_score"
-    />
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/rv_score" />
 
 </android.support.constraint.ConstraintLayout>
