@@ -6,5 +6,5 @@ package techkids.vn.tkprogress.networks.models;
 
 public class Score {
 
-    private String
+    private String 
 }
